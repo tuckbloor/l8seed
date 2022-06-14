@@ -5,7 +5,7 @@
         <h1 class="text-3xl font-bold underline">
             Hello world!
         </h1>
-        <Link href="/">home</Link>
+        <Link href="/contact">contact</Link>
     </div>
 </template>
 
