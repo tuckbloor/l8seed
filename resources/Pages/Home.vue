@@ -2,6 +2,10 @@
     <div>
         <h1>Inertiajs is {{ test }}</h1>
 
+        <h1 class="text-3xl font-bold underline">
+            Hello world!
+        </h1>
+
         <Link href="/about-us">Go to about us</Link>
     </div>
 </template>
